@@ -1,0 +1,20 @@
+.footer {
+    width: 100vw;
+    padding: 10px 10%;
+    background-color: grey;
+    color: white;
+    position: auto;
+    bottom: 0;
+    /* Ocupar todo el ancho disponible */
+    // width: 100%;
+    min-height: 18vh;
+    ul {
+        list-style: none;
+    li{
+        font-size: 20px;
+        font-weight: 700;
+        margin: 12px;
+    }
+}
+
+}
