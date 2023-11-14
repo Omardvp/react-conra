@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-conra/static/css/main.57f4941f.css",
+    "main.js": "/react-conra/static/js/main.eb3e0097.js",
+    "static/js/787.2ac7e69e.chunk.js": "/react-conra/static/js/787.2ac7e69e.chunk.js",
+    "index.html": "/react-conra/index.html",
+    "main.57f4941f.css.map": "/react-conra/static/css/main.57f4941f.css.map",
+    "main.eb3e0097.js.map": "/react-conra/static/js/main.eb3e0097.js.map",
+    "787.2ac7e69e.chunk.js.map": "/react-conra/static/js/787.2ac7e69e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f4941f.css",
+    "static/js/main.eb3e0097.js"
+  ]
+}
