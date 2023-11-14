@@ -34,7 +34,7 @@ export const ItemDetail = ({name, img, desc, price, category, stock, id}) => {
   }
  
   return (
-    <article className='card' style={{ width: '18rem' }}>
+    <article className='card m-3' style={{ width: '18rem' }}>
         <img src={img} alt={name}/>
           <div className='card-body'>
             <h2 className='card-text'>{name}</h2>

@@ -2,6 +2,7 @@
   "name": "proyecto_uno",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://omardvp.github.io/react-conra",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -9,6 +10,7 @@
     "bootstrap": "^5.2.2",
     "firebase": "^9.19.1",
     "formik": "^2.2.9",
+    "gh-pages": "^6.0.0",
     "node-sass": "^7.0.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
@@ -21,6 +23,8 @@
     "yup": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
